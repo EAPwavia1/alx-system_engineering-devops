@@ -1,0 +1,2 @@
+#!/bin/bash
+[ "$(start -c '%u' hello)" = "Guillaume"] && chown betty hello
