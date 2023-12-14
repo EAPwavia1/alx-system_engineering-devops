@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Username: $username, Home Directory: $home" done < /etc/passwd | sort
